@@ -6,6 +6,7 @@ of implementation.
 Example: Trello cards, each card is a user story which when completed contributes to the overall DevOps education. 
 
 **SCRUM** - Every morning user cards are generated and moved around to show tasks needing to be done and ones that were finished
+
 **Agile** - Repeating the process on Trello means that we are constantly evaluating what tasks need to be done and which ones not.
 Process can be repeated for every new development project
 
@@ -23,6 +24,7 @@ more efficient and understandable.
 
 **SCRUM** - Concept of epics is particularly useful when you are following SCRUM as it has explicit timeboxed iterations (sprints)
 Most of the time will organise work into 2 - 4 week sprints.
+
 **Agile** - Splitting large epic user stories/tasks into more manageable smaller user stories and doing iterations (i.e design,
 work/develop and test to make sure it worked) 
 
